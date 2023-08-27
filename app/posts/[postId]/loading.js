@@ -1,6 +1,6 @@
 const Loading = () => {
   return (
-    <div className="spinner">
+    <div className="spinner text-center items-center">
   <span></span>
   <span></span>
   <span></span>
