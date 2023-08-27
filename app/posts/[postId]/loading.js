@@ -1,6 +1,15 @@
 const Loading = () => {
   return (
-    <div>Loading</div>
+    <div className="spinner">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
   )
 }
 
